@@ -1,16 +1,77 @@
-# React + Vite
+# Automated Helpdesk Reasoner for CFAI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+The Automated Helpdesk Reasoner for CFAI is a web-based support management system developed as part of the Computational Foundations for Artificial Intelligence (CFAI) course project.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The system aims to automate helpdesk operations by allowing users to submit support tickets, receive automated assistance, track issue status, and improve support efficiency through intelligent ticket categorization and query handling.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* User Registration and Login
+* User Dashboard
+* Support Ticket Creation
+* Chatbot-Based Query Assistance
+* Ticket Monitoring Interface
+* Responsive and User-Friendly Design
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+* Vite
+* GitHub
+
+## Project Modules
+
+### User Authentication & Dashboard UI
+
+Developed by Chakrika Panakala
+
+### Chatbot Assistance & User Query Handling
+
+Developed by Chakrika Panakala
+
+### Automated Ticket Reasoning & Categorization
+
+Developed by Jamuna Bista
+
+### Helpdesk API Integration & Backend Connectivity
+
+Developed by Jamuna Bista
+
+### Admin Panel & Analytics Dashboard
+
+Developed by Deepsikha Biswal
+
+### System Testing & Deployment Management
+
+Developed by Deepsikha Biswal
+
+## Installation
+
+1. Clone the repository.
+2. Install dependencies:
+
+npm install
+
+3. Start the development server:
+
+npm run dev
+
+4. Open the local development URL in your browser.
+
+## Project Team
+
+* Chakrika Panakala (2520090042)
+* Jamuna Bista (2520030408)
+* Deepsikha Biswal (2520030205)
+
+## Academic Project
+
+Computational Foundations for Artificial Intelligence (CFAI)
+
+Academic Year: 2025–26, Term III
+
